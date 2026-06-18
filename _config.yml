@@ -34,11 +34,11 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
+  arxiv            : "https://arxiv.org/a/wang_j_25.html"
+  googlescholar    : "https://scholar.google.com/citations?user=D24vgIkAAAAJ&hl=en"
+  inspire-hep      : "https://inspirehep.net/authors/3168276"
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-2231-9393"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
